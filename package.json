@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/illo-fugit-iste-magnam",
-  "version": "5.16.182",
+  "version": "5.16.183",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -82,5 +82,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/illo-fugit-iste-magnam/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
